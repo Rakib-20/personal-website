@@ -64,7 +64,7 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
-.clint{
+.footer{
     text-align: center;
     background-image: url("images/footer-bg.png");
     background-repeat: no-repeat;
@@ -89,9 +89,8 @@ section{
 .first-part{
     margin-bottom: 50px;
 }
-.footer{
+.right{
     margin-top: 150px;
-    text-align: center;
 }
 .extra{
     text-align: center;
