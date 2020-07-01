@@ -1,0 +1,94 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+.name{
+    color: orange;
+}
+p{
+    color: dimgray;
+    margin-bottom: 50px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.text{
+    margin-top: 200px;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: top;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.bio{
+    margin-top: 150px;
+}
+.latest{
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+.work{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.work img{
+    width: 100%;
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.footer{
+    text-align: center;
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.foot{
+    font-size: 40px;
+}
+.bottom{
+    color: white;
+    background-color: violet;
+    width: 500px;
+    margin: auto;
+}
+.bottom p{
+    color: white;
+    padding-top: 20px;
+}
+.bottom h2{
+    padding-bottom: 20px;
+}
+.first-part{
+    margin-bottom: 50px;
+}
+.copy{
+    margin-top: 150px;
+}
